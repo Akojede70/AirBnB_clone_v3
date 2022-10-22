@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Peter Akojede - [Github](https://github.com/akojede70)
+Peter Akojede - [Github](https://github.com/akojede70) / [Twitter](https://twitter.com/peter_bassz)  
 Noah Useghan - [Github](https://github.com/Unique-Red) / [Twitter](https://twitter.com/redx_13)
 
 Second part of Airbnb: Joann Vuong

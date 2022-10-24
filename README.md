@@ -155,8 +155,4 @@ No known bugs at this time.
 
 ## Authors
 Peter Akojede - [Github](https://github.com/akojede70) / [Twitter](https://twitter.com/peter_bassz)  
-Noah Useghan - [Github](https://github.com/Unique-Red) / [Twitter](https://twitter.com/redx_13)
-
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+Noah Useghan - [Github](https://github.com/Unique-Red) / [Twitter](https://twitter.comPublic Domain. No copy write protection. 

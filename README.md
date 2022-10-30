@@ -155,4 +155,4 @@ No known bugs at this time.
 
 ## Authors
 Peter Akojede - [Github](https://github.com/akojede70) / [Twitter](https://twitter.com/peter_bassz)  
-Igbayilola Oluwatosin - [Github](https://github.com/Osemilore) / [Twitter](https://twitter.com/O_sheymelore. No copy write protection. 
+Igbayilola Oluwatosin - [Github](https://github.com/Osemilore) / [Twitter](https://twitter.com/O_sheymelore. No copy write protection.  
